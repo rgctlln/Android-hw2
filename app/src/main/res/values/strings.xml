@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">API GRABBER</string>
+    <string name="app_title">API Grabber</string>
+    <string name="add_new_gif">Добавить новую GIF</string>
+    <string name="reload_gif">Перезагрузить</string>
+    <string name="error_message">Ошибка загрузки GIF</string>
+</resources>
